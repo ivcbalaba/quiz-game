@@ -1,24 +1,16 @@
-# project4-quizgame-initial
+# Quiz Game Project
 
-## Project setup
-```
-npm install
-```
+### Project setup <br />
+In the terminal, run ```npm i``` to install project packages.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Project output  <br />
+To see project ouput, run ```npm run serve``` in the terminal.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project Topics <br />
+* JQuery and VueJS Basics
+  * creating and mounting Vue app
+  * creating data and methods
+  * utilizing api using axios
+  * Vue lifecycle hooks
+  * adding and configuring components
+* Creating dynamic HTML codes
